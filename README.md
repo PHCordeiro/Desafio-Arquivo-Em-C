@@ -9,9 +9,8 @@ b) O número de alunos aprovados (considerando aprovados aqueles com nota maior 
 c) A média dos alunos reprovados;
 
 d) A porcentagem (em relação ao total de alunos) dos alunos aprovados e reprovados.
-Obs.:
 
-Imprima a resposta do item (a) no arquivo Resultado.txt.
+Obs.: Imprima a resposta do item (a) no arquivo Resultado.txt.
 Imprima a resposta do item (b) no arquivo Aprovados.txt.
 Imprima a resposta do item (c) no arquivo Reprovados.txt.
 Imprima a resposta do item (d) no arquivo Porcentagens.txt.
