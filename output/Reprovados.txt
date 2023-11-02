@@ -1,0 +1,6 @@
+
+ Numero de alunos reprovados: 6 
+
+
+ Media dos alunos reprovados: 3.47 
+
